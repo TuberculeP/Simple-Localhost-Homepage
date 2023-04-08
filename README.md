@@ -14,6 +14,6 @@ Optimized for Windows Laragon : https://laragon.org/
 
 ## Setup
 
-Just download the php & db file and put it at the root folder of Laragon/Valet/Any you want
+Just download the php file and put it at the root folder of Laragon/Valet/Any you want
 
 Be sure to enable `fileinfo` & `sqlite` extension in your `php.ini`
