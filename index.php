@@ -1,5 +1,5 @@
 <?php
-$page_name = "Cours";
+$page_name = "Localhost";
 $home = "https://localhost";
 $db = new SQLite3('ignore.db');
 $db->exec('CREATE TABLE IF NOT EXISTS ignore (id INTEGER PRIMARY KEY, name TEXT)');
